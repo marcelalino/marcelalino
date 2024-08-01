@@ -1,8 +1,8 @@
-BOA VINDAS AO MEU PERFIL
+**BOA VINDAS AO MEU PERFIL**
 
 Meu nome é Marcela caroline 
 
-- Estou estudando mo Alura
+- Estou estudando no **aluna**
 - Estou me desenvolovendo na linguagem JavaScript
 - Utilizo esse espaco para minha organizacao e acompanhamento do meu projeto desenvolvidos 
 
